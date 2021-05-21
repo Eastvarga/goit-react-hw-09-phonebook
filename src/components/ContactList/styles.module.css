@@ -1,0 +1,21 @@
+.list {
+  display: block;
+  padding: 20px;
+  margin: 0;
+  width: 100%;
+  list-style: decimal;
+}
+.item {
+  text-align: start;
+  font-size: 16px;
+}
+.text {
+  display: inline-block;
+  margin-right: 10px;
+}
+.button {
+  padding: 6px 8px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.2;
+}
